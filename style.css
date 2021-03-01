@@ -1,0 +1,45 @@
+body{
+/*background:#001000;*/
+}
+table{
+	width:100%
+}
+
+thead{
+	border:4px solid #ffc;
+	background:#cdc;
+	font:18px Tahoma;
+	border-collapse:collapse;
+	text-align:center;
+	padding:15px;
+}
+
+table,td{
+	border:1px solid #ccd;
+	font: 15px Tahoma;
+	border-collapse:collapse;
+	text-align:center;
+	padding:10px;
+	
+}
+
+tr:nth-child(even){
+background:#ccc
+}
+
+a{
+	color:#ddd;
+	text-decoration:none;
+	font-family:Tahoma;
+	font-size:22px;
+
+}
+
+a:hover,a:active,a:focus,a:visited{
+/*background:#eee;*/
+color:#aaa;
+
+	
+}
+
+
